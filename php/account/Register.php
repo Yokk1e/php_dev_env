@@ -1,5 +1,10 @@
 <?php
     include('../database.php');
+    $_POST['email'];
+    $_POST['psw'];
     $_POST['fname'];
-    
+    $_POST['lname'];
+    $_POST['birthDate'];
+    $_POST['address'];
+    $_POST['photo'];
 ?>
